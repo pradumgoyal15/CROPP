@@ -228,15 +228,15 @@ Admin Dashboard
 
 Farmer Portal
 
-«Add farmer dashboard screenshot here»
+![Farmer Dashboard](screenshots/farmer-dashboard.png)
 
 Procurement Center Map
 
-«Add map screenshot here»
+![Procurement Map](screenshots/procurement-map.png)
 
 Consumer Portal
 
-«Add consumer portal screenshot here»
+![Consumer Portal](screenshots/consumer-dashboard.png)
 
 ---
 
