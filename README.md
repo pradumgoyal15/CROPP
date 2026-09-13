@@ -224,7 +224,7 @@ npm start
 
 Admin Dashboard
 
-
+![Admin Dashboard](screenshots/admin-dashboard.png)
 
 Farmer Portal
 
